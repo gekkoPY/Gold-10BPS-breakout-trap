@@ -1,4 +1,6 @@
 Theoretical Framework: The Fixed Threshold Anomaly
+
+
 This repository is built upon counter-intuitive quantitative research regarding intraday momentum in precious metals.
 
 📄 The Source Material
