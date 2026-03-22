@@ -1,6 +1,5 @@
 Theoretical Framework: The Fixed Threshold Anomaly
 
-
 This repository is built upon counter-intuitive quantitative research regarding intraday momentum in precious metals.
 
 📄 The Source Material
@@ -20,4 +19,4 @@ The mathematical edge of this ORB strategy relies heavily on the principles of a
 
 The researchers tested whether dynamic thresholds based on an advanced GARCH(1,1) volatility forecasting model would improve performance. Surprisingly, the rigorous empirical data proved that a fixed, narrow threshold (specifically exactly 10 basis points from the daily opening price) vastly outperformed the dynamic GARCH adjustments.
 
-The quantitative edge lies purely in the extreme asymmetry of the payout matrix: while approximately 78% of trading days result in minor, strictly capped losses due to false breakouts, the remaining 22% of days capture massive, unhindered intraday trends. These fat-tailed winning days generate remarkably high mean profits, resulting in a statistically significant positive expectancy.
+The quantitative edge lies purely in the extreme asymmetry of the payout matrix: while approximately 78% of trading days result in minor, strictly capped losses due to false breakouts, the remaining 22% of days capture massive, unhindered intraday trends. These fat-tailed winning days generate remarkably high mean profits, resulting in a statistically significant positive expectancy and a robust sharpe ratio.
